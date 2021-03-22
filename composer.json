@@ -1,6 +1,7 @@
 {
-  "name": "newswirePublisher",
+  "name": "shivcwebco/fourth-estate-newswire-publisher",
   "description": "Imports news from the Fourth Estate Newswire to WordPress",
+  "license": "GPL-3.0-or-later",
   "type": "wordpress-plugin",
   "authors": [
       {
@@ -13,7 +14,7 @@
   },
   "autoload": {
       "psr-4": {
-          "newswirePublisher\\": "src/newswirePublisher"
+          "newswirePublisher\\": "newswirePublisher"
       }
   },
   "minimum-stability": "stable"
