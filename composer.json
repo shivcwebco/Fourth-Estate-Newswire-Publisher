@@ -3,6 +3,7 @@
   "description": "Imports news from the Fourth Estate Newswire to WordPress",
   "license": "GPL-3.0-or-later",
   "version": "1.0.0",
+  "minimum-stability": "dev",
   "type": "wordpress-plugin",
   "authors": [
       {
