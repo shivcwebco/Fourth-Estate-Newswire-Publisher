@@ -26,12 +26,12 @@
   },
   "autoload": {
     "psr-4": {
-      "shivcwebco\\Fourth\\Estate\\Newswire\\Publisher\\": ""
+      "shivcwebco\\Fourth\\Estate\\Newswire\\Publisher\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "shivcwebco\\Fourth\\Estate\\Newswire\\Publisher\\": ""
+      "shivcwebco\\Fourth\\Estate\\Newswire\\Publisher\\": "tests/"
     }
   },
   "scripts": {
