@@ -2,6 +2,9 @@
   "name": "shivcwebco/fourth-estate-newswire-publisher",
   "description": "A base WordPress plugin library. ",
   "license": "MIT",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "type": "wordpress-plugin",
   "homepage": "https://github.com/shivcwebco/Fourth-Estate-Newswire-Publisher",
   "authors": [
     {
